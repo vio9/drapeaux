@@ -3,7 +3,7 @@ import React from "react";
 const Logo = () => {
 	return (
 		<div className="logo">
-			<h3>Drapeaux</h3>
+			<h3>Pays du monde</h3>
 		</div>
 	);
 };
