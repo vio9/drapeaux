@@ -1,0 +1,14 @@
+.navigation {
+	margin: 20px 0;
+	display: flex;
+
+	a {
+		margin: 10px;
+		padding: 10px;
+		position: relative;
+	}
+
+	.active {
+		color: rgb(38, 30, 192);
+	}
+}
