@@ -1,6 +1,7 @@
 import React from "react";
 import Navigation from "../components/Navigation";
 import Logo from "../components/Logo";
+import Countries from "../components/Countries";
 
 const Home = () => {
 	return (
@@ -8,6 +9,7 @@ const Home = () => {
 			<Navigation />
 			<Logo />
 			<h1>Accueil</h1>
+			<Countries />
 		</div>
 	);
 };
